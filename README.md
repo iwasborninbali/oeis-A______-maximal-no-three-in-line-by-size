@@ -3,7 +3,7 @@
 <!-- oeis-status:begin -->
 **OEIS status: not submitted; no A-number yet** (lab registry, 13 Nov 2026).
 
-- A______, triangle: maximal no-three-in-line subsets of the n X n grid by size: **candidate** (2026-11-13: repository built (core c3)). Certificate: partial.
+- A______, triangle: maximal no-three-in-line subsets of the n X n grid by size: **candidate** (2026-11-13: decided: worth a sequence (companion of A398580); low priority). Certificate: partial.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
