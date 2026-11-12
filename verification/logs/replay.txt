@@ -1,0 +1,13 @@
+c3_rows n=1 maximal_profile=[0, 1, 0] OK
+c3_rows n=2 maximal_profile=[0, 0, 0, 0, 1] OK
+c3_det n=2 maximal_profile=[0, 0, 0, 0, 1] OK
+c3_rows n=3 maximal_profile=[0, 0, 0, 0, 5, 16, 2] OK
+c3_det n=3 maximal_profile=[0, 0, 0, 0, 5, 16, 2] OK
+c3_rows n=4 maximal_profile=[0, 0, 0, 0, 2, 8, 210, 116, 11] OK
+c3_det n=4 maximal_profile=[0, 0, 0, 0, 2, 8, 210, 116, 11] OK
+c3_rows n=5 maximal_profile=[0, 0, 0, 0, 0, 0, 152, 1468, 3474, 520, 32] OK
+c3_det n=5 maximal_profile=[0, 0, 0, 0, 0, 0, 152, 1468, 3474, 520, 32] OK
+c3_rows n=6 maximal_profile=[0, 0, 0, 0, 0, 0, 8, 172, 11955, 49332, 49830, 5064, 50] OK
+c3_det n=6 maximal_profile=[0, 0, 0, 0, 0, 0, 8, 172, 11955, 49332, 49830, 5064, 50] OK
+c3_rows n=7 maximal_profile=[0, 0, 0, 0, 0, 0, 0, 0, 4136, 97712, 864918, 1158976, 305960, 13684, 132] OK
+c3_det n=7 maximal_profile=[0, 0, 0, 0, 0, 0, 0, 0, 4136, 97712, 864918, 1158976, 305960, 13684, 132] OK

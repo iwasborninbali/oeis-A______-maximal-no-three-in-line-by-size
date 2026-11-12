@@ -1,0 +1,23 @@
+{
+  "n": 10,
+  "status": "exact (two programs agree)",
+  "programs": {
+    "row": {
+      "completed_shards": 512,
+      "complete": true,
+      "total": 7287023194031,
+      "maximal": 56412888628,
+      "cpu_seconds": 134324.474524,
+      "work": 546614238633
+    },
+    "det": {
+      "completed_shards": 512,
+      "complete": true,
+      "total": 7287023194031,
+      "maximal": 56412888628,
+      "cpu_seconds": 238723.803234,
+      "work": 7287023194031
+    }
+  }
+}
+n=10 stored profiles match data/rows.csv for both programs

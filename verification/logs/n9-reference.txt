@@ -1,0 +1,2 @@
+verification/reference/n9-row.json n=9 maximal_profile matches stored triangle
+verification/reference/n9-det.json n=9 maximal_profile matches stored triangle
