@@ -1,7 +1,7 @@
 # OEIS candidate (no A-number yet): maximal no-three-in-line subsets by size
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted; no A-number yet** (lab registry, 13 Nov 2026).
+**OEIS status: not submitted; no A-number yet** (lab registry, 14 Nov 2026).
 
 - A______, triangle: maximal no-three-in-line subsets of the n X n grid by size: **candidate** (2026-11-13: decided: worth a sequence (companion of A398580); low priority). Certificate: partial.
 
